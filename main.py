@@ -1,7 +1,7 @@
 import random
 from telebot import TeleBot
 
-bot = TeleBot("6205638174:AAFFedDJeZ50JkRq6UgNwXK8zAerjMtnMeA")
+bot = TeleBot("Token")
 sadcommandslist = ['depression', 'sad', 'hardtime', 'depressive']
 happycommandlist = ['happy', 'glad', 'goodmood']
 motivationalcommandlist = ['motivation', 'gym', 'sport', 'motivational']
